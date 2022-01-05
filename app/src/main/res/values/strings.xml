@@ -1,0 +1,8 @@
+<resources>
+    <string name="appTitle">Tour Guide App</string>
+    <string name="Heading">Tour Guide</string>
+    <string name="ngorongoro">NGORONGORO</string>
+    <string name="mikumi">MIKUMI</string>
+    <string name="tarangire">TARANGIRE</string>
+    <string name="serengeti">SERENGETI</string>
+</resources>
